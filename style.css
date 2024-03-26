@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+main{
+    width:60%;
+    display:block;
+    margin:auto;
+    background-color: #e1e2f2;
+    margin-top:50px;
+    border:solid 2px black;
+
+}
